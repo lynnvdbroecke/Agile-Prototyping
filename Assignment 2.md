@@ -21,6 +21,7 @@ With a focus on sustainability, there will be a need for innovations in waste ma
 
 
 **Future, 50 years**
+
 In this future, with the continued popularity of outdoor festivals in Denmark, extreme weather conditions due to global warming, and advanced automation, the building industry will face several future gaps.
 
 1.	Large Climate-Resilient Structures: 
