@@ -59,12 +59,14 @@ Governments and event managers will need to establish comprehensive regulatory f
 For the 5-year future scenario gaps with a focus on sustainability and increased demand for larger summer festivals in Denmark, the selected gene systems, G4 Function/Space and G7 Material, would be affected:
 
 Major: G4 Function/Space
+
 +	The pavilion's design and function will need to align with sustainability goals and be versatile, allowing it to serve as an event space for various purposes, from intimate concerts to larger festival events. Sustainable features, such as energy-efficient lighting and climate control, should be integrated into its design to reduce environmental impact.
 +	To accommodate the growing festival demand, the pavilion should be scalable. It must provide options for expansion to meet the needs of larger crowds while maintaining a comfortable and enjoyable atmosphere.
 +	The pavilion's placement within the festival grounds will need to consider factors like accessibility, proximity to other festival amenities (food and drink areas, camping areas, roads), and compliance with environmental regulations. This ensures that it fits seamlessly into the festival layout and enhances the overall visitor experience.
 +	The pavilion should incorporate waste reduction strategies. This may include efficient waste collection and recycling facilities within or near the pavilion to minimize its environmental footprint.
 
 Minor: G7 Material
+
 +	Given the green initiative, the pavilion's construction materials should consist of recycled and sustainable materials. These materials should meet eco-friendly criteria and be cost-effective. This ensures that the pavilion aligns with sustainability goals while remaining budget-friendly.
 +	The pavilion should be designed to easily disassemble and reuse components, reducing the need for new materials for future festivals and minimizing waste generation. Construction materials should be selected for their energy efficiency and insulation properties. This contributes to the pavilion's ability to maintain comfortable temperatures while minimizing energy consumption, making it more sustainable.
 +	To reduce environmental impact and support the local economy, materials should be sourced locally whenever possible. This reduces transportation-related emissions and fosters community engagement.
@@ -72,13 +74,16 @@ Minor: G7 Material
 **Future, 50 years**
 
 For the 50-year scenario with outdoor festivals in Denmark, the gene systems will need to adapt to address the future gaps in climate resilience, sustainability, and advanced technology. The pavilion should be designed to offer a versatile and weather-resilient space while utilizing materials that are both eco-friendly and in line with the green initiative. Here's how these gene systems are impacted:
+
 Major: G4 Function/Space
+
 +	With extreme weather conditions becoming more prevalent, the G4 Function/Space gene system will need to prioritize climate-resilient design. The pavilion should be adaptable to different weather scenarios, providing shelter from heavy rain, shade during extreme heat, and a comfortable environment for visitors. This multi-purpose space should be designed to accommodate smaller concerts or events in a more intimate setting while still being scalable for larger festival crowds.
 +	Integration of advanced weather prediction and monitoring systems will be essential for this gene system. Real-time weather data should inform decisions regarding the use and adaptation of the pavilion space, ensuring visitor safety and comfort.
 +	The multi-purpose pavilion will need to incorporate advanced energy-efficient lighting and climate control systems to provide a comfortable atmosphere regardless of the weather conditions. This includes energy-efficient heating and cooling systems that can operate in extreme temperatures.
 +	The location and layout of the pavilion space should align with climate-resilient land use planning. It should be strategically situated to minimize risks associated with flooding or other extreme weather events, ensuring its usability during festivals.
 
 Minor: G7 Material
+
 +	In a future where extreme weather is a factor, the choice of materials for the pavilion will be critical. The G7 Material gene system should prioritize climate-adaptive materials that can withstand the changing weather conditions while remaining eco-friendly and cost-effective. These materials should also be recyclable or reusable to align with the green initiative.
 +	Sustainability in material selection will become even more crucial. The pavilion's construction materials should aim to minimize waste and resource consumption while still maintaining structural integrity. The development of innovative materials made from recycled or renewable sources will be essential.
 +	The use of recycled materials should align with circular economy principles. The pavilion should be designed with the capability to disassemble and reuse its components for future events, reducing the need for new materials and minimizing waste.
@@ -142,40 +147,40 @@ For the genes, G4 Function/Space and G7 Material will experience significant cha
 _Prototype Gene System Features_
 
 1.	Real-time Weather Adaptation (Needed Immediately)
-•	Feature: Integration of weather sensors and AI-driven climate control systems to adjust temperature, humidity, and lighting in real-time.
-•	Timeline: Development and integration of real-time weather adaptation features should be prioritized in the initial stages of pavilion design and construction.
++ Feature: Integration of weather sensors and AI-driven climate control systems to adjust temperature, humidity, and lighting in real-time.
++	Timeline: Development and integration of real-time weather adaptation features should be prioritized in the initial stages of pavilion design and construction.
 
 2.	Sustainable Materials (Needed Immediately)
-•	Feature: Selection of recycled and sustainable materials for the pavilion's construction, including recycled steel, reclaimed wood, and eco-friendly insulation.
-•	Timeline: Sustainable material sourcing and procurement should begin during the initial planning phase and continue throughout construction.
++	Feature: Selection of recycled and sustainable materials for the pavilion's construction, including recycled steel, reclaimed wood, and eco-friendly insulation.
++	Timeline: Sustainable material sourcing and procurement should begin during the initial planning phase and continue throughout construction.
 
 3.	Modular Design (Needed Immediately)
-•	Feature: Modular construction with standardized components that can be easily assembled, disassembled, and reused for different event setups.
-•	Timeline: Modular design should be incorporated from the outset of the architectural planning and construction of the pavilion.
++	Feature: Modular construction with standardized components that can be easily assembled, disassembled, and reused for different event setups.
++	Timeline: Modular design should be incorporated from the outset of the architectural planning and construction of the pavilion.
 
 4.	Energy-Efficient Lighting (Needed Immediately)
-•	Feature: LED lighting systems with smart controls to adjust brightness and color temperature based on ambient light and weather conditions.
-•	Timeline: Energy-efficient lighting features should be integrated during the early stages of construction.
++	Feature: LED lighting systems with smart controls to adjust brightness and color temperature based on ambient light and weather conditions.
++	Timeline: Energy-efficient lighting features should be integrated during the early stages of construction.
 
 **50-Year Future Scenario**
 
 _Prototype Gene System Features_
 
 1.	Advanced Climate Adaptation (Needed Immediately)
-•	Feature: Integration of advanced climate-adaptive construction materials, including self-healing concrete and weather-resistant composites, to ensure long-term resilience.
-•	Timeline: Research and development of climate-adaptive materials should commence during the initial planning phase and continue over the long term.
++	Feature: Integration of advanced climate-adaptive construction materials, including self-healing concrete and weather-resistant composites, to ensure long-term resilience.
++	Timeline: Research and development of climate-adaptive materials should commence during the initial planning phase and continue over the long term.
 
 2.	Long-Term Durability (Needed Immediately)
-•	Feature: Design for extended durability with materials and construction methods that reduce wear and tear, minimize maintenance, and promote long-term use.
-•	Timeline: Long-term durability considerations should guide architectural and engineering decisions from the beginning of the project.
++	Feature: Design for extended durability with materials and construction methods that reduce wear and tear, minimize maintenance, and promote long-term use.
++	Timeline: Long-term durability considerations should guide architectural and engineering decisions from the beginning of the project.
 
 3.	Innovative Technology Integration (Development Ongoing)
-•	Feature: Integration of advanced robotics for construction and maintenance, augmented reality systems for visitor experiences, and autonomous drones for monitoring and maintenance.
-•	Timeline: While some of these technologies may be available in the short term, their ongoing development and integration will be a continuous process throughout the pavilion's lifecycle.
++	Feature: Integration of advanced robotics for construction and maintenance, augmented reality systems for visitor experiences, and autonomous drones for monitoring and maintenance.
++	Timeline: While some of these technologies may be available in the short term, their ongoing development and integration will be a continuous process throughout the pavilion's lifecycle.
 
 4.	Stricter Eco-Friendly Manufacturing Standards (Development Ongoing)
-•	Feature: Implementation of stricter eco-friendly manufacturing standards for materials, emphasizing reduced energy consumption and lower carbon emissions during production.
-•	Timeline: The development and adoption of eco-friendly manufacturing standards should be an ongoing effort in collaboration with material suppliers.
++	Feature: Implementation of stricter eco-friendly manufacturing standards for materials, emphasizing reduced energy consumption and lower carbon emissions during production.
++	Timeline: The development and adoption of eco-friendly manufacturing standards should be an ongoing effort in collaboration with material suppliers.
 
 **Associated Feature Development Plan (AFDP)**
 
@@ -183,14 +188,17 @@ Immediate Term (0-2 years)
 + Research and select sustainable construction materials.
 + Begin modular design and prototyping for easy assembly and disassembly.
 + Implement real-time weather monitoring and adaptability systems.
+
 Short Term (2-5 years)
 +	Continue material sourcing and procurement with a focus on sustainability.
 +	Develop and integrate advanced lighting control systems.
 +	Implement stricter eco-friendly manufacturing standards.
+
 Medium Term (5-10 years)
 +	Research and develop climate-adaptive materials for construction.
 +	Pilot the use of advanced robotics for construction and maintenance.
 +	Integrate augmented reality systems for enhanced visitor experiences.
+
 Long Term (10+ years)
 +	Continue research and development of advanced climate-resilient materials.
 +	Expand the use of robotics for construction and maintenance.
@@ -202,67 +210,108 @@ By following AFDP, the prototype gene system can gradually evolve to meet the ch
 **5-Year Future Scenario**
 
 1.	Real-time Weather Adaptation
-Product/Technology: Smart Building Automation Systems
-Requirements:
-•	Integration of weather sensors (e.g., weather stations or IoT weather sensors) to provide real-time weather data.
-•	AI-driven climate control systems can adjust temperature, humidity, and lighting based on weather conditions.
-•	Integration with pavilion management software for automated control and monitoring.
+
+_Product/Technology:_
+
+Smart Building Automation Systems
+
+_Requirements:_
+
++	Integration of weather sensors (e.g., weather stations or IoT weather sensors) to provide real-time weather data.
++	AI-driven climate control systems can adjust temperature, humidity, and lighting based on weather conditions.
++	Integration with pavilion management software for automated control and monitoring.
 
 2.	Sustainable Materials
-Product/Technology: Sustainable Construction Materials
-Requirements:
-•	Selection of recycled and eco-friendly building materials such as recycled steel, reclaimed wood, low-impact insulation, and sustainable concrete.
-•	Compliance with environmental certifications (e.g., LEED, BREEAM) to meet sustainability standards.
-•	Collaboration with suppliers offering sustainable construction materials.
+
+_Product/Technology:_
+
+Sustainable Construction Materials
+
+_Requirements:_
+
++	Selection of recycled and eco-friendly building materials such as recycled steel, reclaimed wood, low-impact insulation, and sustainable concrete.
++	Compliance with environmental certifications (e.g., LEED, BREEAM) to meet sustainability standards.
++	Collaboration with suppliers offering sustainable construction materials.
 
 3.	Modular Design
-Product/Technology: Modular Building Systems
-Requirements:
-•	Design and engineering of standardized modular components that can be easily assembled, disassembled, and reused.
-•	Integration of a digital platform for modular design and construction management.
-•	Training for construction crews in modular construction techniques.
+
+_Product/Technology:_
+
+Modular Building Systems
+
+_Requirements:_
+
++	Design and engineering of standardized modular components that can be easily assembled, disassembled, and reused.
++	Integration of a digital platform for modular design and construction management.
++	Training for construction crews in modular construction techniques.
 
 4.	Energy-Efficient Lighting
-Product/Technology: LED Lighting Systems with Smart Controls
-Requirements   
-•	Installation of energy-efficient LED lighting fixtures throughout the pavilion.
-•	Integration with smart lighting control systems that can adjust brightness, color temperature, and timing based on real-time conditions.
-•	Compatibility with energy management software for data analytics and optimization.
+
+_Product/Technology:_
+
+LED Lighting Systems with Smart Controls
+
+_Requirements:_   
+
++	Installation of energy-efficient LED lighting fixtures throughout the pavilion.
++	Integration with smart lighting control systems that can adjust brightness, color temperature, and timing based on real-time conditions.
++	Compatibility with energy management software for data analytics and optimization.
 
 **50-Year Future Scenario**
 
 1.	Advanced Climate Adaptation
-Product/Technology: Advanced Climate-Adaptive Construction Materials
-Requirements:
-•	Research and development of climate-adaptive materials like self-healing concrete, weather-resistant composites, and advanced insulating materials.
-•	Collaboration with material manufacturers specializing in advanced construction materials.
-•	Rigorous testing for durability and resilience under extreme weather conditions.
+
+_Product/Technology:_
+
+Advanced Climate-Adaptive Construction Materials
+
+_Requirements:_
+
++	Research and development of climate-adaptive materials like self-healing concrete, weather-resistant composites, and advanced insulating materials.
++	Collaboration with material manufacturers specializing in advanced construction materials.
++	Rigorous testing for durability and resilience under extreme weather conditions.
 
 2.	Long-Term Durability
-Product/Technology: Durable Building Design Principles
-Requirements:
-•	Incorporation of design principles that prioritize durability and long-term structural integrity.
-•	Selection of materials with proven long-term performance records.
-•	Maintenance and lifecycle management plans to ensure continuous durability.
+
+_Product/Technology:_
+
+Durable Building Design Principles
+
+_Requirements:_
+
++	Incorporation of design principles that prioritize durability and long-term structural integrity.
++	Selection of materials with proven long-term performance records.
++	Maintenance and lifecycle management plans to ensure continuous durability.
 
 3.	Innovative Technology Integration
-Product/Technology: Robotics, Augmented Reality, and Drone Systems
-Requirements:
-•	Integration of advanced robotics for construction, maintenance, and adaptive infrastructure.
-•	Implementation of augmented reality systems for enhanced visitor experiences, including interactive displays and immersive virtual environments.
-•	Adoption of autonomous drones for real-time monitoring, maintenance, and security.
+
+_Product/Technology:_
+
+Robotics, Augmented Reality, and Drone Systems
+
+_Requirements:_
+
++	Integration of advanced robotics for construction, maintenance, and adaptive infrastructure.
++	Implementation of augmented reality systems for enhanced visitor experiences, including interactive displays and immersive virtual environments.
++	Adoption of autonomous drones for real-time monitoring, maintenance, and security.
 
 4.	Stricter Eco-Friendly Manufacturing Standards
-Product/Technology: Sustainable Manufacturing Processes
-Requirements:
-•	Developing eco-friendly manufacturing standards for construction materials, emphasizing energy efficiency and reduced carbon emissions.
-•	Collaboration with manufacturers committed to sustainable production practices.
-•	Continuous monitoring and reporting on manufacturing environmental impact metrics.
+
+_Product/Technology:_
+
+Sustainable Manufacturing Processes
+
+_Requirements:_
+
++	Developing eco-friendly manufacturing standards for construction materials, emphasizing energy efficiency and reduced carbon emissions.
++	Collaboration with manufacturers committed to sustainable production practices.
++	Continuous monitoring and reporting on manufacturing environmental impact metrics.
 
 By adapting and integrating these existing products and technologies into the design and construction of the pavilion, the prototype gene system can meet the requirements and features necessary to address the identified gaps in the 5-year and 50-year future scenarios. These solutions leverage the best practices and innovations available today to build sustainable, adaptable, and resilient event infrastructure for the future.
 
 ## 2.5 Identify System Analysis
 To analyze the gene systems proposed for addressing future gaps, a combination of digital, physical, and hybrid testing methods can be employed, depending on the specific aspects and requirements of each gene system. Here's how the analysis can be conducted:
+
 **Digital Analysis**
 
 +	Simulation and Modeling. Utilize computer-aided design (CAD) and simulation software to model and simulate the behavior of the pavilion and its systems under various conditions. This digital analysis can help in assessing factors like energy efficiency, climate adaptability, and structural integrity.
