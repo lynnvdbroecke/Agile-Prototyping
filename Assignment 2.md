@@ -323,6 +323,7 @@ _Character:_
 +	Passion: Sustainability and Music
 
 _Arrival at Roskilde Festival_
+
 As Sarah arrives at Roskilde Festival, she's greeted by the magnificent Climate-Adaptive Festival Pavilion, a futuristic structure that seamlessly blends with its natural surroundings. Its transparent, climate-responsive panels change colors harmoniously with the environment, creating a stunning visual effect. Sarah is already impressed with its aesthetic and wonders how it's helping the environment.
 
 ![Screenshot 2023-09-24 150317](https://github.com/lynnvdbroecke/Agile-Prototyping/assets/145906211/35f7594b-896e-4395-80c1-3484a8aebcf2)
